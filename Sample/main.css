@@ -1,0 +1,25 @@
+.darkBG {
+    background: #999;
+}
+
+.darkerBG {
+    background: #666;
+}
+
+.darkestBG {
+    background: #333;
+}
+
+.brownY {
+    background: brown;
+}
+
+.image1 {
+    background-image: "bazinga.jpg";
+}
+
+#topnav {
+    background-color: aqua;
+    width: 100%;
+    height: 43em;
+}
